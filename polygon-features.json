@@ -9,7 +9,8 @@
         "values": [
             "services",
             "rest_area",
-            "escape"
+            "escape",
+            "elevator"
         ]
     },
     {
