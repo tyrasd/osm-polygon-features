@@ -149,5 +149,9 @@
     {
         "key": "golf",
         "polygon": "all"
+    },
+    {
+        "key": "indoor",
+        "polygon": "all"
     }
 ]
