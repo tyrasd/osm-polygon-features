@@ -7,3 +7,4 @@ see also
 --------
 
 * https://github.com/osmlab/id-area-keys
+* https://josm.openstreetmap.de/browser/josm/trunk/src/org/openstreetmap/josm/data/osm/OsmPrimitive.java#L1354
