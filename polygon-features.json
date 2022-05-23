@@ -17,6 +17,7 @@
         "key": "natural",
         "polygon": "blacklist",
         "values": [
+            "no",
             "coastline",
             "cliff",
             "ridge",
@@ -80,6 +81,7 @@
         "key": "man_made",
         "polygon": "blacklist",
         "values": [
+            "no",
             "cutline",
             "embankment",
             "pipeline"
@@ -107,6 +109,7 @@
         "key": "aeroway",
         "polygon": "blacklist",
         "values": [
+            "no",
             "taxiway"
         ]
     },
